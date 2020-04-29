@@ -1,5 +1,5 @@
 {
-  "name": "geo-js",
+  "name": "@aggregator/geo-js",
   "version": "1.0.0",
   "description": "geo map some function",
   "main": "index.js",
@@ -33,7 +33,7 @@
     "url": "https://github.com/Digital-Aggregator/geo-js/issues"
   },
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/@aggregator"
+    "registry": "https://npm.pkg.github.com/@Digital-Aggregator"
   },
   "homepage": "https://github.com/Digital-Aggregator/geo-js#readme"
 }
