@@ -33,7 +33,7 @@
     "url": "https://github.com/Digital-Aggregator/geo-js/issues"
   },
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/@Digital-Aggregator"
+    "registry": "https://registry.npmjs.org/@aggregator"
   },
   "homepage": "https://github.com/Digital-Aggregator/geo-js#readme"
 }
