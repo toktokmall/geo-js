@@ -2,16 +2,17 @@
 
 ## Package setup
 ```
-yarn add geo-js
+yarn add @aggregator/geo-js
 ```
 or
 ```
-npm i geo-js
+npm i @aggregator/geo-js
 ```
 
 ### Quick setup
 ### main.js
 ```
+const geo = require('@aggregator/geo-js')
 const lat1 = 47.91844; const lng1 = 106.88467; const lat2 = 47.90068; const lng2 = 106.87918
 const unit = 'km'
 let dist = 0
