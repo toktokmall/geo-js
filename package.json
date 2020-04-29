@@ -32,8 +32,5 @@
   "bugs": {
     "url": "https://github.com/Digital-Aggregator/geo-js/issues"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com@Digital-Aggregator"
-  },
   "homepage": "https://github.com/Digital-Aggregator/geo-js#readme"
 }
